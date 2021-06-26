@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Your Drivers License</string>
+    <string-array name="LicenseType">
+
+        <item>Please Select Type. . .</item>
+
+        <item>Professional</item>
+        <item>Non-Professional</item>
+        <item>Student Permit</item>
+    </string-array>
+
+</resources>
